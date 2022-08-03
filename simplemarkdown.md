@@ -12,15 +12,10 @@
 
 *some important Einstein’s researches are, of course, well chronicled and his more important works include:
 
-| Name of a Theory |   Date | 
-
-|---------          | ---------|
-
-|Special Theory of Relativity| 1905 |
-
-|-------------|-----|
-
-| General Theory of Relativity |1916 |
+| Name  of a Theory    | Date          |
+| -------- | -------------- |
+| Special Theory of Relativity | 1905 |
+| General Theory of Relativity| 1916 |
 
 * if you want to read more about  Albert Einstein click this icon:
 
