@@ -18,7 +18,7 @@
 
 |Special Theory of Relativity| 1905 |
 
-|-----------------------------|-----|
+|-------------|-----|
 
 | General Theory of Relativity |1916 |
 
